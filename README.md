@@ -1,1 +1,1 @@
-# cloud-curious
+# cloud-explorer
